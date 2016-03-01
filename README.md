@@ -4,9 +4,9 @@ Un repositorio de artistas y sus composiciones
 
 ------
 
-### Artistas:
+### Listado de Artistas:
 
-* The Doors
+* [The Doors](the_doors/README.md)
 * David Gueta
 * Linkin Park
 * Primus
