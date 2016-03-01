@@ -1,0 +1,7 @@
+#Primus
+
+Primus is an American rock band based in San Francisco, California, currently composed of bassist/vocalist Les Claypool, guitarist Larry "Ler" LaLonde and drummer Tim "Herb" Alexander. Primus originally formed in 1984 with Claypool and guitarist Todd Huth, later joined by Jay Lane, though the latter two departed the band at the end of 1988. Featuring LaLonde and drummer Tim "Herb" Alexander, Primus recorded their debut Suck on This in 1989, followed by four studio albums: Frizzle Fry, Sailing the Seas of Cheese, Pork Soda, and Tales from the Punchbowl. Alexander left the band in 1996, replaced by Bryan "Brain" Mantia, and Primus went on to record the original theme song for the TV show South Park and two more albums, Brown Album and Antipop, before declaring a hiatus in 2000.
+
+#Albumes
+
+* [Frizzle Fry](frizzle_fry/README.md)
