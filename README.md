@@ -4,7 +4,7 @@ Un repositorio de artistas y sus composiciones
 
 ------
 
-### Artistas:
+### Listado de Artistas:
 
 * The Doors
 * David Gueta
