@@ -9,5 +9,6 @@ Un repositorio de artistas y sus composiciones
 * [The Doors](the_doors/README.md)
 * David Gueta
 * Linkin Park
-* Primus
+* [Primus](primus/README.md)
 * [The Chainsmokers](chainsmokers/README.md)
+
