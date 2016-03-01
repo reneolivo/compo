@@ -4,4 +4,4 @@ The Doors were an American rock band formed in 1965 in Los Angeles, with vocalis
 
 ### Álbumes
 
-* L.A. Woman (1971)
+* [L.A. Woman (1971)](la_woman/README.md)

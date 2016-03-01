@@ -13,4 +13,4 @@ L.A. Woman is the sixth studio album by the American rock band the Doors, and wa
 7. Hyacinth House
 8. Crawling King Snake
 9. The WASP (Texas Radio and the Big Beat)
-10. Riders on the Storm
+10. [Riders on the Storm](riders_on_the_storm.md)
