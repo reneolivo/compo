@@ -10,4 +10,5 @@ Un repositorio de artistas y sus composiciones
 * David Gueta
 * Linkin Park
 * [Primus](primus/README.md)
+* [The Chainsmokers](chainsmokers/README.md)
 
